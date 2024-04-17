@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://hk.nopshine.top/$1",
+      "dest": "http://hk.nopshine.top/$1",
       "headers": {"Host": "www.lowion.cn"}
     }
   ]
