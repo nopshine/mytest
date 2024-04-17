@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "103.149.144.89/$1",
+      "dest": "https://103.149.144.89/$1",
       "headers": {"Host": "www.lowion.cn"}
     }
   ]
